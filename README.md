@@ -1,7 +1,7 @@
 # Payment-Gateway-Integration
-Child Care Orphanage
+Child Line Foundation
 
-The Child Care orphanage Donation Website comprising of Payment Gateway Integration for Donating specific amount of Money directly to the orphanage.
+The Child Line Foundation Donation Website comprising of Payment Gateway Integration for Donating specific amount of Money directly to the orphanage.
 
 @Tech Stack Used:
 
